@@ -1,0 +1,7 @@
+
+Vyoam from class 5sem has following data :  [AI=97 ,WB=89 ,OS=90 ]
+Aliza from class 9th has following data :  [ENG=100 ,SCI=99 ]
+Cherry from class 10th has following data :  [Sst=98 ,Med=100 ]
+Rishu from class 9th has following data :  [Eng=100 ,Sst=99 ]
+Pranav from class 2nd has following data :  [Gk=100 ]
+Gungun from class 2nd has following data :  [Gk=101 ]
